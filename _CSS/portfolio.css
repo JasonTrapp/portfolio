@@ -1,0 +1,28 @@
+body{
+	margin:					auto 10px;
+	width:					auto;
+	background-color:			black;
+	
+}
+
+h3{
+	text-align: 			center;
+}
+
+p, h2{
+	color:				white;
+}
+
+#content{
+	background-color:		#847E7F;
+}
+
+.proj{
+	color:				white;
+	margin:				10px;
+}
+
+a{
+	text-decoration:		none;
+	color:				white;
+}
