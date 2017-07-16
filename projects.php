@@ -28,6 +28,7 @@ The front-end technologies used for this project include html, css, bootstrap, j
 	<p>This is a console based application which simulates a soccer/football competition. There can be multiple instances of competitions which can contain any number of leagues. Those leagues can contain any number of teams*. At the end of the season, relegations and promotions occur given there is more than 1 league, if there is one league then nothing happens otherwise the top team moves to the next highest league and the wooden spoons move down a league. If the top team is in league 1 then it stays where it is and conversely, if the wooden spoons is in the last league then it stays where it is.
 <br><br>
 *We weren't suppose to test for less than 2 teams.</p>
+<img src ="http://education.oracle.com/education/images/wdpsub/java.png" style="width:64px; height:64px;">
 </div>
 <hr>
 <div class="proj">
@@ -50,5 +51,7 @@ order time, delivery time, name, mobile, delivery method, coordinates, type of p
 20:05:00,20:26:00,Aiden Zhang,0161429209,DVC,-3,9,PZV,2<br>
 The source files can be downloaded <a href="https://bitbucket.org/n5372763/asgn2/src">here</a>. This was created using the Java programming language and was developed using the Eclipse IDE.
 </p>
+<img src ="http://education.oracle.com/education/images/wdpsub/java.png" style="width:64px; height:64px;">
+<img src ="https://image.flaticon.com/icons/png/256/25/25231.png" style="width:64px; height:64px;">
 </div>
 <?php include("footer.php")?>
